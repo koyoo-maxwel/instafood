@@ -2,11 +2,7 @@
 ![InstaFood logo](/home/wanguinjoka/Pictures/instat_food1.png)
 #### InstaFood is an interactive,social and fun web-app. Where foodies interact with each other. The pros can share there meals and get extra cash for them. The food lovers can enjoy the fun samples ,comment and order for meals, 23 JULY 2018
 #### By Contributors
-* https://github.com/wanguinjoka
-* https://github.com/Mutumamutuma
-* https://github.com/kalamanadeygit
-* https://github.com/Koyo-Maxwell
-* https://github.com/nimoh-litora
+
 
 ## Description
 The program is divided into the user interface and business logic. With the following specifications:
