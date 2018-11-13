@@ -1,6 +1,6 @@
 # InstaFood
 
-<img src="./Images/Screenshot from 2018-11-13 15-15-01.png" alt="">
+<img src="Images/Screenshot from 2018-11-13 15-15-01.png" alt="">
 
 #### InstaFood is an interactive,social and fun web-app. Where foodies interact with each other. The pros can share there meals and get extra cash for them. The food lovers can enjoy the fun samples ,comment and order for meals, 23 JULY 2018
 
